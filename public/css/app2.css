@@ -14,7 +14,23 @@
 
 .mainnavbar {
   background-image:  url('/storage/mainnavbar.jpg');
-  height: 10%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
+
+.mainmenuprzycisk:hover {
+  color: red !important;
+}
+
+.mainnavlist {
+  display: flex;
+  align-items: center;
+}
+
+.ikonka {
+  height: 40px;
+  width: 40px;
 }
 
 .navbar-nav > li > .dropdown-menu {
