@@ -12,6 +12,11 @@
   justify-items: end !important;
 }
 
+.mainnavbar {
+  background-image:  url('/storage/mainnavbar.jpg');
+  height: 10%;
+}
+
 .navbar-nav > li > .dropdown-menu {
   background-color: #4d4d4d;
 }
@@ -24,51 +29,6 @@
 .faktydropdown  {
   background-color: #e6e6e6;
   border-radius: 0%;
-}
-
-.podglad  {
-  /*position: absolute;
-    width: 500%;*/
-  background-color: #4d4d4d;
-  margin-top: -10px;
-  color: #ffffff;
-}
-
-.podglad-menu  {
-  background-color: #4d4d4d;
-  color: #ffffff;
-  width: 30%;
-  float: left;
-  padding: 10px;
-  height: 100%;
-}
-
-.podglad-reszta  {
-  background-color: #4d4d4d;
-  color: #ffffff;
-  width: 70%;
-  float: left;
-}
-/**************/
-.podglad-menu > .dropdown-item  {
-  background-color: #4d4d4d;
-  color: #ffffff;
-}
-
-.podglad-reszta > .dropdown-item  {
-  background-color: #4d4d4d;
-  color: #ffffff;
-}
-.podglad-menu >  a:hover  {
-  background-color: #4d4d4d;
-  color: #ffffff;
-  text-decoration: underline;
-}
-
-.podglad-reszta >  a:hover  {
-  background-color: #4d4d4d;
-  color: #ffffff;
-  text-decoration: underline;
 }
 
 .secondnavbaritem {
